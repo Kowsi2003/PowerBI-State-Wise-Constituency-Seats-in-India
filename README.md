@@ -100,16 +100,16 @@ Download the dataset used in this project for practice:
 ## 🎯 Project Questions Addressed
 
 ✅ Total number of states in India.
+
 ✅ Total constituency seats across India.
+
 ✅ State-wise constituency seat distribution.
+
 ✅ Party-wise and coalition-wise seat distribution.
+
 ✅ Map-based visualization of seat distribution.
+
 ✅ Filter-based dynamic analysis for deeper insights.
 
 ---
-* Your **dataset link**
-* Your **two screenshot links**
-* Confirmation if you want the `.pbix` included
-
-so you can copy-paste *directly without reformatting*. Let me know if you want that prepared next.
 
