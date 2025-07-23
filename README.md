@@ -12,7 +12,7 @@ This Power BI project analyzes **state-wise constituency seats in India** using 
 ## 📂 Dataset
 
 Download the dataset used in this project for practice:
-[📥 `State Wise Constituency Seats Dataset`](add_your_dataset_link_here)
+[📥 `State Wise Constituency Seats Dataset`](State Wise Contituency Seats.xlsx)
 
 ---
 
