@@ -38,6 +38,7 @@ Download the dataset used in this project:
 ## ✅ What Was Done
 
 ✔️ **Imported the dataset (`state_wise_constituency_seats.csv`) into Power BI Desktop.**
+
 ✔️ **Cleaned and prepared the data:**
 
 * Removed duplicates and handled blanks.
