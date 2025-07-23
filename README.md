@@ -4,19 +4,17 @@ This Power BI project analyzes **state-wise constituency seats in India** using 
 
 ---
 
+## 🔗 Live Dashboard
+
+> ✅ **View the fully interactive Power BI dashboard (no sign-in required):**
+> [🔗 Click here to view](https://app.powerbi.com/links/FujcI-lx-b?ctid=deb1b7b3-b2e4-49f8-b031-9a339ea9839c&pbi_source=linkShare)
+
+---
 ## 📂 Dataset
 
 Download the dataset used in this project:
-[📥 Click here to download the dataset](https://github.com/Kowsi2003/PowerBI-State-Wise-Constituency-Seats-in-India/raw/main/State%20Wise%20Contituency%20Seats.xlsx)
+[📥 Click here to download the State Wise Constituency Seats Dataset](https://github.com/Kowsi2003/PowerBI-State-Wise-Constituency-Seats-in-India/raw/main/State%20Wise%20Contituency%20Seats.xlsx)
 
-
----
-
-## 📂 Dataset
-
-Download the dataset used in this project for practice:
-
-[State Wise Constituency Seats Dataset](State%20Wise%20Constituency%20Seats.xlsx)
 
 ---
 
