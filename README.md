@@ -70,18 +70,24 @@ Download the dataset used in this project for practice:
 * Verified cross-filtering between visuals.
 * Validated tooltips and hover insights.
 
-✔️ **Published to Power BI Service** and generated a **public access link** for your portfolio.
+✔️ **Published to Power BI Service** and generated a **public access link**.
 
 ---
 
 ## 🛠️ Features
 
 ✅ Fully interactive slicers for **State/UT, NDA/INDI, Party filters**.
+
 ✅ Map visual for intuitive spatial analysis.
+
 ✅ KPI Tiles to display **Total Sales/UT and Total Constituencies**.
+
 ✅ Consistent, clean color palette.
+
 ✅ Portfolio-ready public link for sharing.
+
 ✅ Dynamic updates on filter selection.
+
 ✅ Embed-friendly for Notion, GitHub, LinkedIn portfolio.
 
 ---
