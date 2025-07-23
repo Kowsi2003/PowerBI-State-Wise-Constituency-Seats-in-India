@@ -6,7 +6,7 @@ This Power BI project analyzes **state-wise constituency seats in India** using 
 
 ## 🔗 Live Dashboard
 
-> ✅ **View the fully interactive Power BI dashboard (no sign-in required):**
+> ✅ **View the fully interactive Power BI dashboard:**
 
 > [🔗 Click here to view](https://app.powerbi.com/links/FujcI-lx-b?ctid=deb1b7b3-b2e4-49f8-b031-9a339ea9839c&pbi_source=linkShare)
 
@@ -24,15 +24,14 @@ Download the dataset used in this project:
 
 ### 1️⃣ Full Dashboard View
 
-```markdown
-![Dashboard Full View](<add_screenshot_link_1>)
-```
+
+![Dashboard Full View](Dashboard.png)
+
 
 ### 2️⃣ Filtered View Example
 
-```markdown
-![Dashboard Filtered View](<add_screenshot_link_2>)
-```
+
+![Dashboard Filtered View](Slicer-Dashboard.png)
 
 ---
 
